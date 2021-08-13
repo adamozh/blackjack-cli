@@ -1,2 +1,2 @@
 # Blackjack
-A python Blackjack game built while learning Python.
+A Blackjack game built while learning Python.
