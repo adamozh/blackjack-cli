@@ -1,2 +1,2 @@
 # Blackjack
-First milestone project, a python OOP program for blackjack
+A python Blackjack game built while learning Python.
